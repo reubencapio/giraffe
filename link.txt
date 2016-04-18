@@ -1,1 +1,7 @@
+interesting:
 https://bitbucket.org/waterreaction/giraffe
+http://www.codeproject.com/Articles/477689/JavaScript-Machine-Learning-and-Neural-Networks-wi
+https://re-work.co/events/deep-learning-singapore#registration_anchor
+http://www.codeproject.com/script/Articles/ViewDownloads.aspx?aid=16447
+
+melanoma detection using machine learning website
